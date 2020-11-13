@@ -1,3 +1,4 @@
 # simple-os-cli
-- simple operating system that mimics linux terminal
-- has commands pwd, ls, dir, help, exit
+- C++ program
+- This is a simple operating system that mimics linux terminal
+- Implemented commands: pwd, ls, dir, help, exit
